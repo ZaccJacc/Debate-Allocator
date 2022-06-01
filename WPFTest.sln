@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFTest", "WPFTest\WPFTest.csproj", "{CC4BDABA-FB4B-4DA2-8CC5-0966686C4270}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Resources", "Solution Resources", "{B1F028D2-56A8-4A08-9BEB-F4DDD6378869}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Fonts\Digital7Mono-B1g5.ttf = ..\..\..\Downloads\Fonts\Digital7Mono-B1g5.ttf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4BDABA-FB4B-4DA2-8CC5-0966686C4270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4BDABA-FB4B-4DA2-8CC5-0966686C4270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4BDABA-FB4B-4DA2-8CC5-0966686C4270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4BDABA-FB4B-4DA2-8CC5-0966686C4270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE9E7C91-B954-49EB-89F2-82315278233C}
+	EndGlobalSection
+EndGlobal
