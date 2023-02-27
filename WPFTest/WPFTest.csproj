@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net6.0-windows</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <ApplicationIcon>cat.ico</ApplicationIcon>
@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <Content Include="cat.ico" />
-	  <Content Include="Digital7Mono-B1g5.ttf"/>
+	  <Content Include="Digital7Mono-B1g5.ttf" />
   </ItemGroup>
 
 </Project>
